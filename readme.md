@@ -1,12 +1,12 @@
-﻿#Projeto Exemplo
+﻿# Projeto Exemplo
 
 
 
-Este é um *\*README.md*\* simples criado apenas para demonstração.
+Este é um *\* README.md *\* simples criado apenas para demonstração.
 
 
 
-##Descrição
+## Descrição
 
 
 
@@ -14,7 +14,7 @@ Um exemplo básico de arquivo README para testar Git
 
 
 
-##Tecnologias##
+## Tecnologias
 
 
 
@@ -24,10 +24,11 @@ Um exemplo básico de arquivo README para testar Git
 
 
 
-##Autor
+## Autor
 
 
 
 Douglas Santos
+
 
 
